@@ -40,8 +40,9 @@
   <h4>Flask and Testing</h4>
 
   <ul>
-    <li><code>flask run</code></li>
+    <li><i>Start Flask</i><br><code>flask run</code></li>
     <li>
+      <i>Run Tests</i><br>
       <code>cd tests</code><br>
       <code>python3 run_tests.py </code>
     </li>
